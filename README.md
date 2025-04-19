@@ -28,5 +28,5 @@ SELECT director, COUNT(*) AS movie_count FROM movies GROUP BY director;
 - **Tool Familiarity**: Gained hands-on experience with SQLite and DB Browser.
 
 ## 📸 Query Results  
-![Top 5 Movies](screenshots/IMDB SS.png, Screenshot 2025-04-19 151112 IMDB SS,png)  
+![Top 5 Movies](result.png)  
 *Top-rated films from the dataset*
